@@ -110,17 +110,3 @@ time.sleep(2)
 
 
 
-
-
-
-
-
-
-
-
-# get_confirmation_div_text = web.find_element(By.CSS_SELECTOR,'.freebirdFormviewerViewResponseConfirmationMessage')
-# print(get_confirmation_div_text.text)
-# if ((get_confirmation_div_text.text) == "Thank you for attending"):
-#     print ("Test Was Successful")
-# else:
-#     print("Test Was Not Successful")
